@@ -1,0 +1,13 @@
+Red
+D,0,255
+Green
+D,0,255,
+Blue
+D,0,255,
+Dimmer
+D,0,255,
+Mode
+S,0,0,On
+S,1,5,Music
+S,6,10,On
+S,11,255,Strobe
