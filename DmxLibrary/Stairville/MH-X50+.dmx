@@ -1,0 +1,45 @@
+Pan
+V,0,255,
+Tilt
+V,0,255,
+Color
+S,0,6,White
+S,7,13,Yellow
+S,14,20,Purple
+S,21,27,Green
+S,28,34,Peachblow
+S,35,41,Blue
+S,42,48,Kelly-Green
+S,49,55,Red
+S,56,63,Dark-Blue
+S,64,70,White & Yellow
+S,71,77,Yellow & Purple
+S,78,84,Puple & Green
+S,85,91,Green & Peachblow
+S,92,98,Peachblow & Blue
+S,99,105,Blue & Kelly-Green
+S,106,112,Kelly-Green & Red
+S,113,119,Red & Dark-Blue
+S,120,127,Dark-Blue & White
+V,128,191,Rainboweffect with Positiv Turning
+V,192,255,Rainboweffect with negativ Turning
+Shutter
+S,0,3,Closed
+S,4,7,Open
+V,8,215,Strobe
+S,210,255,Open
+Gobo
+S,0,7,Gobo 1
+S,8,15,Gobo 2
+S,16,23,Gobo 3
+Rotation
+S,0,62,Fixed
+V,64,147,Positiv Turning
+V,148,231,Negativ Turning
+V,232,255,Jumping
+Prisma
+S,0,7,Nothing
+V,8,247,Rotate
+S,248,255,Fixed
+Focus
+V,0,255,
